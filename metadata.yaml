@@ -1,0 +1,30 @@
+_repo: Kertomuksia_60532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bergman, Johan Albert
+    alias: Bergman, J. A.
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '6615'
+    url: http://www.gutenberg.org/2009/agents/6615
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Bergman
+description: ''
+gutenberg_issued: '2019-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60532'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Esipuhe -- Kesämuistelmia -- Sormisuukkoset -- Petollinen turva --
+  Matkamuistelma -- Hörrilän Junnun ensi lukukausi -- Pappilassa -- "Pulska kapteeni"
+  -- Jenny -- "Äyri-Hannu."
+title: Kertomuksia
+url: http://www.gutenberg.org/ebooks/60532
